@@ -20,8 +20,19 @@ color: burlywood;
     color: chartreuse;
 }
 #CookingVibes{
-    color: rgb(175, 192, 192);
+    color: darkmagenta;
 }
 #ContactUs{
     color: crimson;
+}
+p{
+    color: black;
+    background-color: azure;
+}
+section{
+    width: 300px;
+    height: 350px;
+    border:2px solid black ;
+border-radius: 7px;
+text-align: center;
 }
